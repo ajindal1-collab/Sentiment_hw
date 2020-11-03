@@ -1,1 +1,1 @@
-# Sentiment_hw
+# Sentiment Analysis with stock data
